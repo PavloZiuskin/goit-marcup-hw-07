@@ -71,6 +71,10 @@ ul {
   background-color: var(--acsent-btn-bgc);
 }
 
+.section--no-pt {
+  padding-top: 0;
+}
+
 .section-title {
   margin-top: 0;
   margin-bottom: 50px;
@@ -431,10 +435,6 @@ ul {
   line-height: 1.7;
   letter-spacing: 0.03em;
   color: var(--secondary-text-color);
-}
-
-.working {
-  padding-top: 0;
 }
 
 .code-job {
